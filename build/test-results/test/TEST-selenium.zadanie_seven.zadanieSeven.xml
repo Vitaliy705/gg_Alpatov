@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="selenium.zadanie_seven.zadanieSeven" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-17T20:17:13" hostname="RZ-N210521-01" time="6.86">
-  <properties/>
-  <testcase name="priveteForm()" classname="selenium.zadanie_seven.zadanieSeven" time="6.86"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
